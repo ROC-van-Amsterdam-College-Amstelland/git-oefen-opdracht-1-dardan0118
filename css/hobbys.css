@@ -123,7 +123,7 @@ h5
     opacity: 0.9;
     color: black;
     width: auto;
-    padding: 5px;
+    padding: 10px;
     height: 190px;
     width: 150px;
     
@@ -141,9 +141,8 @@ h5
     width: 250px;
     text-align: center;
     display: flex;
-   
     justify-content: center;
-    margin: 0px;
+    padding: 10px;
     
 }
 
@@ -155,6 +154,7 @@ footer{
     color: white;
     text-align: center;
     padding: 13px;
+    height: 100px;
     
 }
 
@@ -166,9 +166,13 @@ footer{
     padding: 10px;
 }
 
-.Container{
+.Container1{
     display: flex;
     justify-content: start;
+}
+h5{
+    float: right;
+    padding:5px;
 }
 
 

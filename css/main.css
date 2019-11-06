@@ -118,18 +118,23 @@ h1
 
 
 footer{
-    position: none;
+    position: absolute;
     bottom: 0;
     background-color:grey;
-    width: 1510px;
+    width: 1515px;
     color: white;
     text-align: center;
-    padding: 8px;
+    padding: 10px;
+    height: 100px;
 }
 
-.Container{
+.Container1{
     display: flex;
     justify-content: start;
 }
-
+h5
+{
+    float: right;
+    padding: 5px;
+}
 
